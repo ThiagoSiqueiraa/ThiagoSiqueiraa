@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-### Hi there 👋
-
 I'm a full stack dev withwith a year of experience, lover of programming and technology.
 
 My actual stack is Javascript, with Node.js. I like to work with databases SQL (MySQL, Postgres) and NoSQL (mongoDB).
