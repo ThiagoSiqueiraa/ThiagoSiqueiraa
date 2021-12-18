@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a full stack dev with a year of experience, lover of programming and technology.
+I'm a full stack dev with a 2 year of experience, lover of programming and technology.
 
-My actual stack is Javascript, with Node.js. I like to work with relational databases  (MySQL, Postgres) and NoSQL (MongoDB).
+My actual stack is Javascript, Node.js. I like to work with relational databases  (MySQL, Postgres) and NoSQL (MongoDB).
 
-I've worked with PHP (Laravel), Firebase SDK, Native apps (Android w/ Java), Ionic (hybrid app).
+I've worked with PHP (Laravel), Firebase SDK, Native apps (Android w/ Java), Ionic (hybrid app), HTML & CSS, AWS, AWS Lambda.
 
 
 - 💻 I’m currently working at [SMARKIO](https://www.smarkio.com.br/) as a Junior Systems Analyst
