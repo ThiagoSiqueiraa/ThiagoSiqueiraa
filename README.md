@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full stack dev with a 2 year of experience, lover of programming and technology.
+I'm a full stack dev with a 2 years of experience, lover of programming and technology.
 
 My actual stack is Javascript, Node.js. I like to work with relational databases  (MySQL, Postgres) and NoSQL (MongoDB).
 
